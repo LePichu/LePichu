@@ -1,5 +1,5 @@
 # Hello 
-I am LePichu, 16 year old student living in India who does Rust, TypeScript, Crystal and more.
+I am LePichu, 16 year old student living in India who does Rust, TypeScript, PowerShell and more.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lepichu"> 
