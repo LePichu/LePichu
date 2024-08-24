@@ -8,4 +8,4 @@ I am LePichu, an 18 year old student who does Rust, TypeScript, PowerShell and m
 </p>
 -->
 
-![Me](https://media1.tenor.com/m/gg23VXtDxwQAAAAC/cat-bite-cat-cats.gif) 
+![Me biting you.](https://github.com/user-attachments/assets/98828560-4fc5-4661-a248-4a56068f7c11)
