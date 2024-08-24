@@ -8,4 +8,6 @@ I am LePichu, an 18 year old student who does Rust, TypeScript, PowerShell and m
 </p>
 -->
 
-![I am losing it.](https://github.com/user-attachments/assets/090f9802-d6a1-4209-a060-d6bb32e1fc3e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/012add7d-e144-4ff4-b0d2-8de36445a539" alt="I am losing it.">
+</p>
